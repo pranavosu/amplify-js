@@ -81,8 +81,8 @@
 		"server"
 	],
 	"dependencies": {
-		"tslib": "^2.5.0",
-		"@aws-sdk/types": "3.398.0"
+		"@aws-sdk/types": "3.398.0",
+		"tslib": "^2.5.0"
 	},
 	"peerDependencies": {
 		"@aws-amplify/core": "^6.1.0"
